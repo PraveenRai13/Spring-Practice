@@ -1,0 +1,16 @@
+
+o
+java:S16122"<Replace this lambda with method reference 'this::userToDto'.(²åÏ8òÓŠùµ0H·'RMINORZ
+CODE_SMELL
+˜
+java:S1488$"`Immediately return this expression instead of assigning it to the temporary variable "userdto1".(Ç€Õúÿÿÿÿ8ó®¸øµ0H€'RMINORZ
+CODE_SMELL
+’
+java:S14882"_Immediately return this expression instead of assigning it to the temporary variable "userDto".(²åÏ8Äá‹ùµ0H¾'RMINORZ
+CODE_SMELL
+…
+java:S62042"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(²åÏ8òÓŠùµ0H¶'RMAJORZ
+CODE_SMELL
+^
+java:S1172G"+Remove this unused method parameter "user".(âÂÂ´8ƒİ¼÷µ0Hú%RMAJORZ
+CODE_SMELL

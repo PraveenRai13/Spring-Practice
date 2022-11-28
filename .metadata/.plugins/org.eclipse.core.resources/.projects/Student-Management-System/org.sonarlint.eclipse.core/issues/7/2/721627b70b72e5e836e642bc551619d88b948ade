@@ -1,0 +1,17 @@
+
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8®±Éªµ0H±"RINFOZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'org.sim.sms.entity.Student'.(ç“„Ý8½ÌÃ©µ0H˜"RMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8®±Éªµ0Hµ"RMINORZ
+CODE_SMELL
+x
+java:S1128"ERemove this unused import 'org.sim.sms.repository.StudentRepository'.(‡º­á8®±Éªµ0H³"RMINORZ
+CODE_SMELL
+s	java:S125""<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8®±Éªµ0H²"RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(çÄž®úÿÿÿÿ8®±Éªµ0H©"RMAJORZ
+CODE_SMELL

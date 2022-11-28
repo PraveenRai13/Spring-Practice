@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ThymeleafDemo/src/main/resources/static/cs&apos; to &apos;css&apos;" description="Rename resource &apos;cs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/static/cs" name="css" stamp="1663397905170" updateReferences="true"/>
+</session>

@@ -1,0 +1,22 @@
+
+n	java:S1258"<This block of commented-out lines of code should be removed.(øü®ç8¹ùºÉ±0Hê'RMAJORZ
+CODE_SMELL
+g	java:S1254"<This block of commented-out lines of code should be removed.(âµ†ïHë'RMAJORZ
+CODE_SMELL
+ƒ
+java:S6204t"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÚµÃ›şÿÿÿÿHî'RMAJORZ
+CODE_SMELL
+v
+java:S1144b"ERemove this unused private "createServiceImplMethodsExecutor" method.(ê¬¹øşÿÿÿÿHï'RMAJORZ
+CODE_SMELL
+u
+java:S1144]"DRemove this unused private "countServiceImplMethodsExecutor" method.(®Ü£ÜøÿÿÿÿHñ'RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(£Õ¤ŞHó'RMAJORZ
+CODE_SMELL
+Š
+java:S14880"^Immediately return this expression instead of assigning it to the temporary variable "runner".(¸ÜªßHô'RMINORZ
+CODE_SMELL
+q
+java:S1144X"ERemove this unused private "existsServiceImplMethodsExecutor" method.(Ø´«‚H÷'RMAJORZ
+CODE_SMELL

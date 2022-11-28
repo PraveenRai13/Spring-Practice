@@ -1,0 +1,16 @@
+
+X
+java:S1165"%Make this "resourceName" field final.(Ä¶î¿8Ù€†³0HÍRMINORZ
+CODE_SMELL
+T
+java:S1165""Make this "fieldName" field final.(–©ÙK8Ù€†³0HÎRMINORZ
+CODE_SMELL
+V
+java:S1165"#Make this "fieldValue" field final.(ä›¨Ã8Ù€†³0HÏRMINORZ
+CODE_SMELL
+b
+java:S1948",Make "fieldValue" transient or serializable.(ä›¨Ã8Ù€†³0HĞRCRITICALZ
+CODE_SMELL
+L
+java:S3457"3rd argument is not used.(ŒŞĞ·8õØƒ†³0HğRMAJORZ
+CODE_SMELL

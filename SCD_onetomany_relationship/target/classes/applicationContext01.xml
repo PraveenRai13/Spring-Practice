@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+	<bean name="s1" class="org.sim.beans.Subject">
+	<property name="subjectName" value="Java"/>
+	<property name="duration" value="30"/>
+	</bean>
+	<bean name="s2" class="org.sim.beans.Subject">
+	<property name="subjectName" value="Python"/>
+	<property name="duration" value="25"/>
+	</bean>
+	<bean name="student" class="org.sim.beans.Student">
+	<property name="sid" value="01"/>
+	<property name="name" value="Praveen"/>
+	<property name="address" value="Mumbai"/>
+	<property name="subject">
+	<set>
+	<ref bean="s1"/>
+	<ref bean="s2"/>
+	
+	</set>
+	
+	</property>
+	
+	</bean>
+	</beans>
